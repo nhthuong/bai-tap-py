@@ -1,0 +1,13 @@
+{
+    "VIP_10": [
+        {
+            "ID": "1",
+            "Ten": "VIP_10",
+            "Ma_so": "VIP_10",
+            "ID_loai_phong": "1",
+            "Don_gia": "85000",
+            "So_khach_toi_da": "20",
+            "Trang_thai": "CO_KHACH"
+        }
+    ]
+}

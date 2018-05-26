@@ -1,0 +1,13 @@
+{
+    "GiaoDich": [],
+    "GiaoDichTienTe": [
+        {
+            "ma": "gd1",
+            "ngay": "26/05/2018",
+            "don_gia": "23000",
+            "so_luong": "1",
+            "loai": "USD",
+            "mua": "True"
+        }
+    ]
+}
